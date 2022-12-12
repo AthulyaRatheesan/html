@@ -1,0 +1,26 @@
+table 
+{
+   border-collapse: ;
+
+}
+th,td
+{
+    text-align: left;
+    padding: 10px;
+}
+tr:nth-child(odd)
+{
+    background-color: blueviolet;
+}
+th:nth-child(even)
+{
+    background-color: rgb(43, 217, 226);
+}
+td:nth-child(odd)
+{
+    background-color: blueviolet;
+}
+tr:hover
+{
+    background-color: blue;
+}

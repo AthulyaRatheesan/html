@@ -1,0 +1,27 @@
+li
+{
+    float: right;
+}
+ul
+{
+    overflow: hidden;
+    list-style-type: none;
+}
+li a{
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+}
+li a:hover
+{
+    background-color: aqua;
+}
+table,th,td
+{
+    border-collapse:collapse;
+    border: 1px solid black;
+}
+th,td
+{
+    text-align: left;
+}
