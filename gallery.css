@@ -1,0 +1,48 @@
+/* *{
+    margin: 0;
+}
+div
+{
+    text-align: center;
+}
+img
+{
+    padding-left:10px ;
+    padding-right: 10px;
+    margin-left: 20px;
+}
+body
+{
+    background-color: aqua;
+    margin-top: auto;
+}
+h1:hover
+{
+    background-color: blue;
+} */
+.a {
+    height: auto;
+    width: 200px;
+    /* border: 2px solid black; */
+    float: left;
+    padding-left: 10px;
+    display: inline;
+
+}
+/* .a img{
+    height: auto;
+    width: 100%;
+
+    /* margin-left: 10px;
+    padding-left: 10px;
+    padding-right: 10px; */
+
+} */
+.para 
+{
+    text-align: center;
+}
+.a:hover
+{
+    background-color: blue;
+}

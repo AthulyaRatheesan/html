@@ -1,0 +1,18 @@
+.a{
+    background-color: aqua;
+    padding: 10px;
+    font-size: medium;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 10px;
+}
+.b
+{
+    background-color: blue;
+    margin: 10px;
+    color: blueviolet;
+}
+#id1
+{
+    color: brown;
+}
