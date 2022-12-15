@@ -1,0 +1,19 @@
+div
+{
+    border: 20px;
+    text-align: center;
+    background-color: aqua;
+    padding-top: 10px;
+    margin: 0;
+    padding: 10px;
+
+}
+input[type="submit"]
+{
+    background-color: blue;
+    width: 10%;
+}
+input[type="text"]:hover
+{
+    background-color: brown;
+}
